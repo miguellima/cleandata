@@ -5,7 +5,7 @@ This assignemnt for tidying up data for Human Activity Recognition Using Smartph
 
 #FILES
 
-Codebook.md -> information about the contents of the averages_data.txt
-cleaningdata.R -> the Source code
-averages_data.txt -> the tidy data file
+Codebook.md -> information about the contents of the averages_data.txt <br>
+cleaningdata.R -> the Source code <br>
+averages_data.txt -> the tidy data file <br>
 Readme.md -> this file
